@@ -1,0 +1,678 @@
+mois	date	equipe1	competition	score	equipe2	equipe1_goal	equipe2_goal	equipe_REF	Bilan	Competition_bis	MoisL
+7	2019-07-16	DynamoDresde	MA	1-6	Paris-SG	1	6	PARIS-SG (PSG)	V	Amicaux	Juillet
+7	2019-07-20	Nuremberg	MA	1-1	Paris-SG	1	1	PARIS-SG (PSG)	N	Amicaux	Juillet
+7	2019-07-27	Paris-SG	MA	1-1	InterMilan	1	1	PARIS-SG (PSG)	N	Amicaux	Juillet
+7	2019-07-30	Paris-SG	MA	3-0	SydneyFC	3	0	PARIS-SG (PSG)	V	Amicaux	Juillet
+3	2019-03-08	Paris-SG	TC	2-1	Rennes	2	1	PARIS-SG (PSG)	V	CoupeNat	Mars
+11	2019-11-08	Paris-SG	L1	3-0	Nîmes	3	0	PARIS-SG (PSG)	V	Championnat	Novembre
+8	2019-08-18	Rennes	L1	2-1	Paris-SG	2	1	PARIS-SG (PSG)	D	Championnat	Août
+8	2019-08-25	Paris-SG	L1	4-0	Toulouse	4	0	PARIS-SG (PSG)	V	Championnat	Août
+8	2019-08-30	Metz	L1	0-2	Paris-SG	0	2	PARIS-SG (PSG)	V	Championnat	Août
+9	2019-09-14	Paris-SG	L1	1-0	Strasbourg	1	0	PARIS-SG (PSG)	V	Championnat	Septembre
+9	2019-09-18	Paris-SG	C1	3-0	RealMadrid	3	0	PARIS-SG (PSG)	V	LDC	Septembre
+9	2019-09-22	Lyon	L1	0-1	Paris-SG	0	1	PARIS-SG (PSG)	V	Championnat	Septembre
+9	2019-09-25	Paris-SG	L1	0-2	Reims	0	2	PARIS-SG (PSG)	D	Championnat	Septembre
+9	2019-09-28	Bordeaux	L1	0-1	Paris-SG	0	1	PARIS-SG (PSG)	V	Championnat	Septembre
+1	2019-01-10	Galatasaray	C1	0-1	Paris-SG	0	1	PARIS-SG (PSG)	V	LDC	Janvier
+5	2019-05-10	Paris-SG	L1	4-0	Angers	4	0	PARIS-SG (PSG)	V	Championnat	Mai
+10	2019-10-18	Nice	L1	1-4	Paris-SG	1	4	PARIS-SG (PSG)	V	Championnat	Octobre
+10	2019-10-22	ClubBruges	C1	0-5	Paris-SG	0	5	PARIS-SG (PSG)	V	LDC	Octobre
+10	2019-10-27	Paris-SG	L1	4-0	Marseille	4	0	PARIS-SG (PSG)	V	Championnat	Octobre
+1	2019-01-11	Dijon	L1	2-1	Paris-SG	2	1	PARIS-SG (PSG)	D	Championnat	Janvier
+6	2019-06-11	Paris-SG	C1	1-0	ClubBruges	1	0	PARIS-SG (PSG)	V	LDC	Juin
+9	2019-09-11	Brest	L1	1-2	Paris-SG	1	2	PARIS-SG (PSG)	V	Championnat	Septembre
+11	2019-11-22	Paris-SG	L1	2-0	Lille	2	0	PARIS-SG (PSG)	V	Championnat	Novembre
+11	2019-11-26	RealMadrid	C1	2-2	Paris-SG	2	2	PARIS-SG (PSG)	N	LDC	Novembre
+4	2019-04-12	Paris-SG	L1	2-0	Nantes	2	0	PARIS-SG (PSG)	V	Championnat	Avril
+7	2019-07-12	Montpellier	L1	1-3	Paris-SG	1	3	PARIS-SG (PSG)	V	Championnat	Juillet
+11	2019-11-12	Paris-SG	C1	5-0	Galatasaray	5	0	PARIS-SG (PSG)	V	LDC	Novembre
+12	2019-12-15	Saint-Étien.	L1	0-4	Paris-SG	0	4	PARIS-SG (PSG)	V	Championnat	Décembre
+12	2019-12-18	LeMans	CL	1-4	Paris-SG	1	4	PARIS-SG (PSG)	V	CoupeNat	Décembre
+12	2019-12-21	Paris-SG	L1	4-1	Amiens	4	1	PARIS-SG (PSG)	V	Championnat	Décembre
+5	2020-05-01	Linas-Montl.	CO	0-6	Paris-SG	0	6	PARIS-SG (PSG)	V	CoupeNat	Mai
+7	2019-07-13	Lyon	MA	1-2	ServetteGenève	1	2	LYON (OL)	D	Amicaux	Juillet
+7	2019-07-20	Lyon	MA	3-4	Genoa	3	4	LYON (OL)	D	Amicaux	Juillet
+7	2019-07-28	Arsenal	MA	1-2	Lyon	1	2	LYON (OL)	V	Amicaux	Juillet
+7	2019-07-31	Lyon	MA	1-3	Liverpool	1	3	LYON (OL)	D	Amicaux	Juillet
+3	2019-03-08	Bournemouth	MA	3-0	Lyon	3	0	LYON (OL)	D	Amicaux	Mars
+9	2019-09-08	Monaco	L1	0-3	Lyon	0	3	LYON (OL)	V	Championnat	Septembre
+8	2019-08-16	Lyon	L1	6-0	Angers	6	0	LYON (OL)	V	Championnat	Août
+8	2019-08-27	Montpellier	L1	1-0	Lyon	1	0	LYON (OL)	D	Championnat	Août
+8	2019-08-31	Lyon	L1	1-1	Bordeaux	1	1	LYON (OL)	N	Championnat	Août
+9	2019-09-13	Amiens	L1	2-2	Lyon	2	2	LYON (OL)	N	Championnat	Septembre
+9	2019-09-17	Lyon	C1	1-1	ZénithSaint-Pétersbourg	1	1	LYON (OL)	N	LDC	Septembre
+9	2019-09-22	Lyon	L1	0-1	Paris-SG	0	1	LYON (OL)	D	Championnat	Septembre
+9	2019-09-25	Brest	L1	2-2	Lyon	2	2	LYON (OL)	N	Championnat	Septembre
+9	2019-09-28	Lyon	L1	0-1	Nantes	0	1	LYON (OL)	D	Championnat	Septembre
+2	2019-02-10	RBLeipzig	C1	0-2	Lyon	0	2	LYON (OL)	V	LDC	Février
+6	2019-06-10	Saint-Étien.	L1	1-0	Lyon	1	0	LYON (OL)	D	Championnat	Juin
+10	2019-10-19	Lyon	L1	0-0	Dijon	0	0	LYON (OL)	N	Championnat	Octobre
+10	2019-10-23	Benfica	C1	2-1	Lyon	2	1	LYON (OL)	D	LDC	Octobre
+10	2019-10-26	Lyon	L1	2-0	Metz	2	0	LYON (OL)	V	Championnat	Octobre
+2	2019-02-11	Toulouse	L1	2-3	Lyon	2	3	LYON (OL)	V	Championnat	Février
+5	2019-05-11	Lyon	C1	3-1	Benfica	3	1	LYON (OL)	V	LDC	Mai
+10	2019-10-11	Marseille	L1	2-1	Lyon	2	1	LYON (OL)	D	Championnat	Octobre
+11	2019-11-23	Lyon	L1	2-1	Nice	2	1	LYON (OL)	V	Championnat	Novembre
+11	2019-11-27	ZénithSaint-Pétersbourg	C1	2-0	Lyon	2	0	LYON (OL)	D	LDC	Novembre
+11	2019-11-30	Strasbourg	L1	1-2	Lyon	1	2	LYON (OL)	V	Championnat	Novembre
+3	2019-03-12	Lyon	L1	0-1	Lille	0	1	LYON (OL)	D	Championnat	Mars
+6	2019-06-12	Nîmes	L1	0-4	Lyon	0	4	LYON (OL)	V	Championnat	Juin
+10	2019-10-12	Lyon	C1	2-2	RBLeipzig	2	2	LYON (OL)	N	LDC	Octobre
+12	2019-12-15	Lyon	L1	0-1	Rennes	0	1	LYON (OL)	D	Championnat	Décembre
+12	2019-12-18	Lyon	CL	4-1	Toulouse	4	1	LYON (OL)	V	CoupeNat	Décembre
+12	2019-12-21	Reims	L1	1-1	Lyon	1	1	LYON (OL)	N	Championnat	Décembre
+4	2020-04-01	Bourg-en-Br.	CO	0-7	Lyon	0	7	LYON (OL)	V	CoupeNat	Avril
+7	2019-07-07	StokeB	MA	0-1	Marseille	0	1	MARSEILLE (OM)	V	Amicaux	Juillet
+11	2019-11-07	Accrington	MA	2-1	Marseille	2	1	MARSEILLE (OM)	D	Amicaux	Novembre
+7	2019-07-14	GlasgowRangers	MA	4-0	Marseille	4	0	MARSEILLE (OM)	D	Amicaux	Juillet
+7	2019-07-19	Marseille	MA	2-1	Bordeaux	2	1	MARSEILLE (OM)	V	Amicaux	Juillet
+7	2019-07-22	Saint-Étien.	MA	1-2	Marseille	1	2	MARSEILLE (OM)	V	Amicaux	Juillet
+7	2019-07-25	Marseille	MA	8-1	DCUnited	8	1	MARSEILLE (OM)	V	Amicaux	Juillet
+4	2019-04-08	Marseille	MA	0-1	Naples	0	1	MARSEILLE (OM)	D	Amicaux	Avril
+10	2019-10-08	Marseille	L1	0-2	Reims	0	2	MARSEILLE (OM)	D	Championnat	Octobre
+8	2019-08-17	Nantes	L1	0-0	Marseille	0	0	MARSEILLE (OM)	N	Championnat	Août
+8	2019-08-28	Nice	L1	1-2	Marseille	1	2	MARSEILLE (OM)	V	Championnat	Août
+1	2019-01-09	Marseille	L1	1-0	Saint-Étien.	1	0	MARSEILLE (OM)	V	Championnat	Janvier
+9	2019-09-15	Monaco	L1	3-4	Marseille	3	4	MARSEILLE (OM)	V	Championnat	Septembre
+9	2019-09-21	Marseille	L1	1-1	Montpellier	1	1	MARSEILLE (OM)	N	Championnat	Septembre
+9	2019-09-24	Dijon	L1	0-0	Marseille	0	0	MARSEILLE (OM)	N	Championnat	Septembre
+9	2019-09-29	Marseille	L1	1-1	Rennes	1	1	MARSEILLE (OM)	N	Championnat	Septembre
+4	2019-04-10	Amiens	L1	3-1	Marseille	3	1	MARSEILLE (OM)	D	Championnat	Avril
+10	2019-10-20	Marseille	L1	2-0	Strasbourg	2	0	MARSEILLE (OM)	V	Championnat	Octobre
+10	2019-10-27	Paris-SG	L1	4-0	Marseille	4	0	MARSEILLE (OM)	D	Championnat	Octobre
+10	2019-10-30	Monaco	CL	2-1	Marseille	2	1	MARSEILLE (OM)	D	CoupeNat	Octobre
+2	2019-02-11	Marseille	L1	2-1	Lille	2	1	MARSEILLE (OM)	V	Championnat	Février
+10	2019-10-11	Marseille	L1	2-1	Lyon	2	1	MARSEILLE (OM)	V	Championnat	Octobre
+11	2019-11-24	Toulouse	L1	0-2	Marseille	0	2	MARSEILLE (OM)	V	Championnat	Novembre
+11	2019-11-29	Marseille	L1	2-1	Brest	2	1	MARSEILLE (OM)	V	Championnat	Novembre
+3	2019-03-12	Angers	L1	0-2	Marseille	0	2	MARSEILLE (OM)	V	Championnat	Mars
+8	2019-08-12	Marseille	L1	3-1	Bordeaux	3	1	MARSEILLE (OM)	V	Championnat	Août
+12	2019-12-14	Metz	L1	1-1	Marseille	1	1	MARSEILLE (OM)	N	Championnat	Décembre
+12	2019-12-21	Marseille	L1	3-1	Nîmes	3	1	MARSEILLE (OM)	V	Championnat	Décembre
+5	2020-05-01	Trélissac	CO	1-1	Marseille	1	1	MARSEILLE (OM)	N	CoupeNat	Mai
+6	2019-06-07	CercleBruges	MA	1-4	Monaco	1	4	MONACO (ASM)	V	Amicaux	Juin
+7	2019-07-07	SCLokeren	MA	5-0	Monaco	5	0	MONACO (ASM)	D	Amicaux	Juillet
+7	2019-07-13	LausanneSports	MA	2-1	Monaco	2	1	MONACO (ASM)	D	Amicaux	Juillet
+7	2019-07-19	Monaco	MA	0-1	Everton	0	1	MONACO (ASM)	D	Amicaux	Juillet
+7	2019-07-20	ValenceCF	MA	0-1	Monaco	0	1	MONACO (ASM)	V	Amicaux	Juillet
+7	2019-07-24	Braga	MA	0-0	Monaco	0	0	MONACO (ASM)	N	Amicaux	Juillet
+7	2019-07-27	FCPorto	MA	0-1	Monaco	0	1	MONACO (ASM)	V	Amicaux	Juillet
+3	2019-03-08	Monaco	MA	1-0	SampdoriaGênes	1	0	MONACO (ASM)	V	Amicaux	Mars
+9	2019-09-08	Monaco	L1	0-3	Lyon	0	3	MONACO (ASM)	D	Championnat	Septembre
+8	2019-08-17	Metz	L1	3-0	Monaco	3	0	MONACO (ASM)	D	Championnat	Août
+8	2019-08-25	Monaco	L1	2-2	Nîmes	2	2	MONACO (ASM)	N	Championnat	Août
+1	2019-01-09	Strasbourg	L1	2-2	Monaco	2	2	MONACO (ASM)	N	Championnat	Janvier
+9	2019-09-15	Monaco	L1	3-4	Marseille	3	4	MONACO (ASM)	D	Championnat	Septembre
+9	2019-09-21	Reims	L1	0-0	Monaco	0	0	MONACO (ASM)	N	Championnat	Septembre
+9	2019-09-24	Monaco	L1	3-1	Nice	3	1	MONACO (ASM)	V	Championnat	Septembre
+9	2019-09-28	Monaco	L1	4-1	Brest	4	1	MONACO (ASM)	V	Championnat	Septembre
+5	2019-05-10	Montpellier	L1	3-1	Monaco	3	1	MONACO (ASM)	D	Championnat	Mai
+10	2019-10-20	Monaco	L1	3-2	Rennes	3	2	MONACO (ASM)	V	Championnat	Octobre
+10	2019-10-25	Nantes	L1	0-1	Monaco	0	1	MONACO (ASM)	V	Championnat	Octobre
+10	2019-10-30	Monaco	CL	2-1	Marseille	2	1	MONACO (ASM)	V	CoupeNat	Octobre
+3	2019-03-11	Saint-Étien.	L1	1-0	Monaco	1	0	MONACO (ASM)	D	Championnat	Mars
+9	2019-09-11	Monaco	L1	1-0	Dijon	1	0	MONACO (ASM)	V	Championnat	Septembre
+11	2019-11-24	Bordeaux	L1	2-1	Monaco	2	1	MONACO (ASM)	D	Championnat	Novembre
+4	2019-04-12	Toulouse	L1	1-2	Monaco	1	2	MONACO (ASM)	V	Championnat	Avril
+7	2019-07-12	Monaco	L1	3-0	Amiens	3	0	MONACO (ASM)	V	Championnat	Juillet
+12	2019-12-14	Angers	L1	0-0	Monaco	0	0	MONACO (ASM)	N	Championnat	Décembre
+12	2019-12-17	Monaco	CL	0-3	Lille	0	3	MONACO (ASM)	D	CoupeNat	Décembre
+12	2019-12-21	Monaco	L1	5-1	Lille	5	1	MONACO (ASM)	V	Championnat	Décembre
+4	2020-04-01	Monaco	CO	2-1	Reims	2	1	MONACO (ASM)	V	CoupeNat	Avril
+9	2019-09-07	Andrézieux	MA	1-2	Saint-Étien.	1	2	SAINT-ETIENNE (ASSE)	V	Amicaux	Septembre
+7	2019-07-13	Saint-Étien.	MA	1-1	Clermont	1	1	SAINT-ETIENNE (ASSE)	N	Amicaux	Juillet
+7	2019-07-19	Saint-Étien.	MA	4-2	Montpellier	4	2	SAINT-ETIENNE (ASSE)	V	Amicaux	Juillet
+7	2019-07-22	Saint-Étien.	MA	1-2	Marseille	1	2	SAINT-ETIENNE (ASSE)	D	Amicaux	Juillet
+7	2019-07-28	Middlesbrou.	MA	1-1	Saint-Étien.	1	1	SAINT-ETIENNE (ASSE)	N	Amicaux	Juillet
+3	2019-03-08	Newcastle	MA	2-1	Saint-Étien.	2	1	SAINT-ETIENNE (ASSE)	D	Amicaux	Mars
+10	2019-10-08	Dijon	L1	1-2	Saint-Étien.	1	2	SAINT-ETIENNE (ASSE)	V	Championnat	Octobre
+8	2019-08-18	Saint-Étien.	L1	1-1	Brest	1	1	SAINT-ETIENNE (ASSE)	N	Championnat	Août
+8	2019-08-28	Lille	L1	3-0	Saint-Étien.	3	0	SAINT-ETIENNE (ASSE)	D	Championnat	Août
+1	2019-01-09	Marseille	L1	1-0	Saint-Étien.	1	0	SAINT-ETIENNE (ASSE)	D	Championnat	Janvier
+9	2019-09-15	Saint-Étien.	L1	2-2	Toulouse	2	2	SAINT-ETIENNE (ASSE)	N	Championnat	Septembre
+9	2019-09-19	LaGantoise	C3	3-2	Saint-Étien.	3	2	SAINT-ETIENNE (ASSE)	D	C3	Septembre
+9	2019-09-22	Angers	L1	4-1	Saint-Étien.	4	1	SAINT-ETIENNE (ASSE)	D	Championnat	Septembre
+9	2019-09-25	Saint-Étien.	L1	0-1	Metz	0	1	SAINT-ETIENNE (ASSE)	D	Championnat	Septembre
+9	2019-09-29	Nîmes	L1	0-1	Saint-Étien.	0	1	SAINT-ETIENNE (ASSE)	V	Championnat	Septembre
+3	2019-03-10	Saint-Étien.	C3	1-1	Wolfsburg	1	1	SAINT-ETIENNE (ASSE)	N	C3	Mars
+6	2019-06-10	Saint-Étien.	L1	1-0	Lyon	1	0	SAINT-ETIENNE (ASSE)	V	Championnat	Juin
+10	2019-10-20	Bordeaux	L1	0-1	Saint-Étien.	0	1	SAINT-ETIENNE (ASSE)	V	Championnat	Octobre
+10	2019-10-24	Saint-Étien.	C3	1-1	Oleksandria	1	1	SAINT-ETIENNE (ASSE)	N	C3	Octobre
+10	2019-10-27	Saint-Étien.	L1	2-2	Amiens	2	2	SAINT-ETIENNE (ASSE)	N	Championnat	Octobre
+3	2019-03-11	Saint-Étien.	L1	1-0	Monaco	1	0	SAINT-ETIENNE (ASSE)	V	Championnat	Mars
+7	2019-07-11	Oleksandria	C3	2-2	Saint-Étien.	2	2	SAINT-ETIENNE (ASSE)	N	C3	Juillet
+10	2019-10-11	Nantes	L1	2-3	Saint-Étien.	2	3	SAINT-ETIENNE (ASSE)	V	Championnat	Octobre
+11	2019-11-24	Saint-Étien.	L1	0-0	Montpellier	0	0	SAINT-ETIENNE (ASSE)	N	Championnat	Novembre
+11	2019-11-28	Saint-Étien.	C3	0-0	LaGantoise	0	0	SAINT-ETIENNE (ASSE)	N	C3	Novembre
+1	2019-01-12	Rennes	L1	2-1	Saint-Étien.	2	1	SAINT-ETIENNE (ASSE)	D	Championnat	Janvier
+4	2019-04-12	Saint-Étien.	L1	4-1	Nice	4	1	SAINT-ETIENNE (ASSE)	V	Championnat	Avril
+8	2019-08-12	Reims	L1	3-1	Saint-Étien.	3	1	SAINT-ETIENNE (ASSE)	D	Championnat	Août
+12	2019-12-12	Wolfsburg	C3	1-0	Saint-Étien.	1	0	SAINT-ETIENNE (ASSE)	D	C3	Décembre
+12	2019-12-15	Saint-Étien.	L1	0-4	Paris-SG	0	4	SAINT-ETIENNE (ASSE)	D	Championnat	Décembre
+12	2019-12-18	Nîmes	CL	1-2	Saint-Étien.	1	2	SAINT-ETIENNE (ASSE)	V	CoupeNat	Décembre
+12	2019-12-21	Strasbourg	L1	2-1	Saint-Étien.	2	1	SAINT-ETIENNE (ASSE)	D	Championnat	Décembre
+5	2020-05-01	Bastia-Borgo	CO	0-3	Saint-Étien.	0	3	SAINT-ETIENNE (ASSE)	V	CoupeNat	Mai
+8	2019-08-16	AthleticBilbao	Liga	1-0	FCBarcelone	1	0	FC BARCELONE	D	Championnat	Août
+8	2019-08-25	FCBarcelone	Liga	5-2	BetisSéville	5	2	FC BARCELONE	V	Championnat	Août
+8	2019-08-31	Osasuna	Liga	2-2	FCBarcelone	2	2	FC BARCELONE	N	Championnat	Août
+9	2019-09-14	FCBarcelone	Liga	5-2	ValenceCF	5	2	FC BARCELONE	V	Championnat	Septembre
+9	2019-09-17	BorussiaDortmund	LDC	0-0	FCBarcelone	0	0	FC BARCELONE	N	LDC	Septembre
+9	2019-09-21	GrenadeCF	Liga	2-0	FCBarcelone	2	0	FC BARCELONE	D	Championnat	Septembre
+9	2019-09-24	FCBarcelone	Liga	2-1	Villarreal	2	1	FC BARCELONE	V	Championnat	Septembre
+9	2019-09-28	Getafe	Liga	0-2	FCBarcelone	0	2	FC BARCELONE	V	Championnat	Septembre
+2	2019-02-10	FCBarcelone	LDC	2-1	InterMilan	2	1	FC BARCELONE	V	LDC	Février
+6	2019-06-10	FCBarcelone	Liga	4-0	SévilleFC	4	0	FC BARCELONE	V	Championnat	Juin
+10	2019-10-19	Eibar	Liga	0-3	FCBarcelone	0	3	FC BARCELONE	V	Championnat	Octobre
+10	2019-10-23	SlaviaPrague	LDC	1-2	FCBarcelone	1	2	FC BARCELONE	V	LDC	Octobre
+10	2019-10-29	FCBarcelone	Liga	5-1	Valladolid	5	1	FC BARCELONE	V	Championnat	Octobre
+2	2019-02-11	Levante	Liga	3-1	FCBarcelone	3	1	FC BARCELONE	D	Championnat	Février
+5	2019-05-11	FCBarcelone	LDC	0-0	SlaviaPrague	0	0	FC BARCELONE	N	LDC	Mai
+9	2019-09-11	FCBarcelone	Liga	4-1	CeltaVigo	4	1	FC BARCELONE	V	Championnat	Septembre
+11	2019-11-23	Leganés	Liga	1-2	FCBarcelone	1	2	FC BARCELONE	V	Championnat	Novembre
+11	2019-11-27	FCBarcelone	LDC	3-1	BorussiaDortmund	3	1	FC BARCELONE	V	LDC	Novembre
+1	2019-01-12	AtléticodeMadrid	Liga	0-1	FCBarcelone	0	1	FC BARCELONE	V	Championnat	Janvier
+7	2019-07-12	FCBarcelone	Liga	5-2	Majorque	5	2	FC BARCELONE	V	Championnat	Juillet
+10	2019-10-12	InterMilan	LDC	1-2	FCBarcelone	1	2	FC BARCELONE	V	LDC	Octobre
+12	2019-12-14	RealSociedad	Liga	2-2	FCBarcelone	2	2	FC BARCELONE	N	Championnat	Décembre
+12	2019-12-18	FCBarcelone	Liga	0-0	RealMadrid	0	0	FC BARCELONE	N	Championnat	Décembre
+12	2019-12-21	FCBarcelone	Liga	4-1	Alavés	4	1	FC BARCELONE	V	Championnat	Décembre
+4	2020-04-01	EspanyolBarcelone	Liga	2-2	FCBarcelone	2	2	FC BARCELONE	N	Championnat	Avril
+8	2019-08-18	EspanyolBarcelone	Liga	0-2	SévilleFC	0	2	SEVILLE FC	V	Championnat	Août
+8	2019-08-23	GrenadeCF	Liga	0-1	SévilleFC	0	1	SEVILLE FC	V	Championnat	Août
+8	2019-08-30	SévilleFC	Liga	1-1	CeltaVigo	1	1	SEVILLE FC	N	Championnat	Août
+9	2019-09-15	Alavés	Liga	0-1	SévilleFC	0	1	SEVILLE FC	V	Championnat	Septembre
+9	2019-09-19	KarabaghAgdam	C3	0-3	SévilleFC	0	3	SEVILLE FC	V	C3	Septembre
+9	2019-09-22	SévilleFC	Liga	0-1	RealMadrid	0	1	SEVILLE FC	D	Championnat	Septembre
+9	2019-09-26	Eibar	Liga	3-2	SévilleFC	3	2	SEVILLE FC	D	Championnat	Septembre
+9	2019-09-29	SévilleFC	Liga	3-2	RealSociedad	3	2	SEVILLE FC	V	Championnat	Septembre
+3	2019-03-10	SévilleFC	C3	1-0	APOELNicosie	1	0	SEVILLE FC	V	C3	Mars
+6	2019-06-10	FCBarcelone	Liga	4-0	SévilleFC	4	0	SEVILLE FC	D	Championnat	Juin
+10	2019-10-20	SévilleFC	Liga	1-0	Levante	1	0	SEVILLE FC	V	Championnat	Octobre
+10	2019-10-24	SévilleFC	C3	3-0	F91Dudelange	3	0	SEVILLE FC	V	C3	Octobre
+10	2019-10-27	SévilleFC	Liga	2-0	Getafe	2	0	SEVILLE FC	V	Championnat	Octobre
+10	2019-10-30	ValenceCF	Liga	1-1	SévilleFC	1	1	SEVILLE FC	N	Championnat	Octobre
+2	2019-02-11	SévilleFC	Liga	1-1	AtléticodeMadrid	1	1	SEVILLE FC	N	Championnat	Février
+7	2019-07-11	F91Dudelange	C3	2-5	SévilleFC	2	5	SEVILLE FC	V	C3	Juillet
+10	2019-10-11	BetisSéville	Liga	1-2	SévilleFC	1	2	SEVILLE FC	V	Championnat	Octobre
+11	2019-11-24	Valladolid	Liga	0-1	SévilleFC	0	1	SEVILLE FC	V	Championnat	Novembre
+11	2019-11-28	SévilleFC	C3	2-0	KarabaghAgdam	2	0	SEVILLE FC	V	C3	Novembre
+1	2019-01-12	SévilleFC	Liga	1-0	Leganés	1	0	SEVILLE FC	V	Championnat	Janvier
+8	2019-08-12	Osasuna	Liga	1-1	SévilleFC	1	1	SEVILLE FC	N	Championnat	Août
+12	2019-12-12	APOELNicosie	C3	1-0	SévilleFC	1	0	SEVILLE FC	D	C3	Décembre
+12	2019-12-15	SévilleFC	Liga	1-2	Villarreal	1	2	SEVILLE FC	D	Championnat	Décembre
+12	2019-12-18	Bergantinos	CO	0-1	SévilleFC	0	1	SEVILLE FC	V	CoupeNat	Décembre
+12	2019-12-21	Majorque	Liga	0-2	SévilleFC	0	2	SEVILLE FC	V	Championnat	Décembre
+3	2020-03-01	SévilleFC	Liga	1-1	AthleticBilbao	1	1	SEVILLE FC	N	Championnat	Mars
+7	2019-07-20	ValenceCF	MA	0-1	Monaco	0	1	VALENCE CF	D	Amicaux	Juillet
+8	2019-08-17	ValenceCF	Liga	1-1	RealSociedad	1	1	VALENCE CF	N	Championnat	Août
+8	2019-08-24	CeltaVigo	Liga	1-0	ValenceCF	1	0	VALENCE CF	D	Championnat	Août
+1	2019-01-09	ValenceCF	Liga	2-0	Majorque	2	0	VALENCE CF	V	Championnat	Janvier
+9	2019-09-14	FCBarcelone	Liga	5-2	ValenceCF	5	2	VALENCE CF	D	Championnat	Septembre
+9	2019-09-17	Chelsea	LDC	0-1	ValenceCF	0	1	VALENCE CF	V	LDC	Septembre
+9	2019-09-22	ValenceCF	Liga	1-1	Leganés	1	1	VALENCE CF	N	Championnat	Septembre
+9	2019-09-25	ValenceCF	Liga	3-3	Getafe	3	3	VALENCE CF	N	Championnat	Septembre
+9	2019-09-28	AthleticBilbao	Liga	0-1	ValenceCF	0	1	VALENCE CF	V	Championnat	Septembre
+2	2019-02-10	ValenceCF	LDC	0-3	AjaxAmsterdam	0	3	VALENCE CF	D	LDC	Février
+5	2019-05-10	ValenceCF	Liga	2-1	Alavés	2	1	VALENCE CF	V	Championnat	Mai
+10	2019-10-19	AtléticodeMadrid	Liga	1-1	ValenceCF	1	1	VALENCE CF	N	Championnat	Octobre
+10	2019-10-23	Lille	LDC	1-1	ValenceCF	1	1	VALENCE CF	N	LDC	Octobre
+10	2019-10-27	Osasuna	Liga	3-1	ValenceCF	3	1	VALENCE CF	D	Championnat	Octobre
+10	2019-10-30	ValenceCF	Liga	1-1	SévilleFC	1	1	VALENCE CF	N	Championnat	Octobre
+2	2019-02-11	EspanyolBarcelone	Liga	1-2	ValenceCF	1	2	VALENCE CF	V	Championnat	Février
+5	2019-05-11	ValenceCF	LDC	4-1	Lille	4	1	VALENCE CF	V	LDC	Mai
+9	2019-09-11	ValenceCF	Liga	2-0	GrenadeCF	2	0	VALENCE CF	V	Championnat	Septembre
+11	2019-11-23	BetisSéville	Liga	2-1	ValenceCF	2	1	VALENCE CF	D	Championnat	Novembre
+11	2019-11-27	ValenceCF	LDC	2-2	Chelsea	2	2	VALENCE CF	N	LDC	Novembre
+11	2019-11-30	ValenceCF	Liga	2-1	Villarreal	2	1	VALENCE CF	V	Championnat	Novembre
+7	2019-07-12	Levante	Liga	2-4	ValenceCF	2	4	VALENCE CF	V	Championnat	Juillet
+10	2019-10-12	AjaxAmsterdam	LDC	0-1	ValenceCF	0	1	VALENCE CF	V	LDC	Octobre
+12	2019-12-15	ValenceCF	Liga	1-1	RealMadrid	1	1	VALENCE CF	N	Championnat	Décembre
+12	2019-12-21	Valladolid	Liga	1-1	ValenceCF	1	1	VALENCE CF	N	Championnat	Décembre
+4	2020-04-01	ValenceCF	Liga	1-0	Eibar	1	0	VALENCE CF	V	Championnat	Avril
+8	2019-08-18	AtléticodeMadrid	Liga	1-0	Getafe	1	0	ATLETICO DE MADRID	V	Championnat	Août
+8	2019-08-25	Leganés	Liga	0-1	AtléticodeMadrid	0	1	ATLETICO DE MADRID	V	Championnat	Août
+1	2019-01-09	AtléticodeMadrid	Liga	3-2	Eibar	3	2	ATLETICO DE MADRID	V	Championnat	Janvier
+9	2019-09-14	RealSociedad	Liga	2-0	AtléticodeMadrid	2	0	ATLETICO DE MADRID	D	Championnat	Septembre
+9	2019-09-18	AtléticodeMadrid	LDC	2-2	JuventusTurin	2	2	ATLETICO DE MADRID	N	LDC	Septembre
+9	2019-09-21	AtléticodeMadrid	Liga	0-0	CeltaVigo	0	0	ATLETICO DE MADRID	N	Championnat	Septembre
+9	2019-09-25	Majorque	Liga	0-2	AtléticodeMadrid	0	2	ATLETICO DE MADRID	V	Championnat	Septembre
+9	2019-09-28	AtléticodeMadrid	Liga	0-0	RealMadrid	0	0	ATLETICO DE MADRID	N	Championnat	Septembre
+1	2019-01-10	LokomotivMoscou	LDC	0-2	AtléticodeMadrid	0	2	ATLETICO DE MADRID	V	LDC	Janvier
+6	2019-06-10	Valladolid	Liga	0-0	AtléticodeMadrid	0	0	ATLETICO DE MADRID	N	Championnat	Juin
+10	2019-10-19	AtléticodeMadrid	Liga	1-1	ValenceCF	1	1	ATLETICO DE MADRID	N	Championnat	Octobre
+10	2019-10-22	AtléticodeMadrid	LDC	1-0	BayerLeverkusen	1	0	ATLETICO DE MADRID	V	LDC	Octobre
+10	2019-10-26	AtléticodeMadrid	Liga	2-0	AthleticBilbao	2	0	ATLETICO DE MADRID	V	Championnat	Octobre
+10	2019-10-29	Alavés	Liga	1-1	AtléticodeMadrid	1	1	ATLETICO DE MADRID	N	Championnat	Octobre
+2	2019-02-11	SévilleFC	Liga	1-1	AtléticodeMadrid	1	1	ATLETICO DE MADRID	N	Championnat	Février
+6	2019-06-11	BayerLeverkusen	LDC	2-1	AtléticodeMadrid	2	1	ATLETICO DE MADRID	D	LDC	Juin
+10	2019-10-11	AtléticodeMadrid	Liga	3-1	EspanyolBarcelone	3	1	ATLETICO DE MADRID	V	Championnat	Octobre
+11	2019-11-23	GrenadeCF	Liga	1-1	AtléticodeMadrid	1	1	ATLETICO DE MADRID	N	Championnat	Novembre
+11	2019-11-26	JuventusTurin	LDC	1-0	AtléticodeMadrid	1	0	ATLETICO DE MADRID	D	LDC	Novembre
+1	2019-01-12	AtléticodeMadrid	Liga	0-1	FCBarcelone	0	1	ATLETICO DE MADRID	D	Championnat	Janvier
+6	2019-06-12	Villarreal	Liga	0-0	AtléticodeMadrid	0	0	ATLETICO DE MADRID	N	Championnat	Juin
+11	2019-11-12	AtléticodeMadrid	LDC	2-0	LokomotivMoscou	2	0	ATLETICO DE MADRID	V	LDC	Novembre
+12	2019-12-14	AtléticodeMadrid	Liga	2-0	Osasuna	2	0	ATLETICO DE MADRID	V	Championnat	Décembre
+12	2019-12-22	BetisSéville	Liga	1-2	AtléticodeMadrid	1	2	ATLETICO DE MADRID	V	Championnat	Décembre
+4	2020-04-01	AtléticodeMadrid	Liga	2-1	Levante	2	1	ATLETICO DE MADRID	V	Championnat	Avril
+8	2019-08-17	CeltaVigo	Liga	1-3	RealMadrid	1	3	REAL MADRID	V	Championnat	Août
+8	2019-08-24	RealMadrid	Liga	1-1	Valladolid	1	1	REAL MADRID	N	Championnat	Août
+1	2019-01-09	Villarreal	Liga	2-2	RealMadrid	2	2	REAL MADRID	N	Championnat	Janvier
+9	2019-09-14	RealMadrid	Liga	3-2	Levante	3	2	REAL MADRID	V	Championnat	Septembre
+9	2019-09-18	Paris-SG	LDC	3-0	RealMadrid	3	0	REAL MADRID	D	LDC	Septembre
+9	2019-09-22	SévilleFC	Liga	0-1	RealMadrid	0	1	REAL MADRID	V	Championnat	Septembre
+9	2019-09-25	RealMadrid	Liga	2-0	Osasuna	2	0	REAL MADRID	V	Championnat	Septembre
+9	2019-09-28	AtléticodeMadrid	Liga	0-0	RealMadrid	0	0	REAL MADRID	N	Championnat	Septembre
+1	2019-01-10	RealMadrid	LDC	2-2	ClubBruges	2	2	REAL MADRID	N	LDC	Janvier
+5	2019-05-10	RealMadrid	Liga	4-2	GrenadeCF	4	2	REAL MADRID	V	Championnat	Mai
+10	2019-10-19	Majorque	Liga	1-0	RealMadrid	1	0	REAL MADRID	D	Championnat	Octobre
+10	2019-10-22	Galatasaray	LDC	0-1	RealMadrid	0	1	REAL MADRID	V	LDC	Octobre
+10	2019-10-30	RealMadrid	Liga	5-0	Leganés	5	0	REAL MADRID	V	Championnat	Octobre
+2	2019-02-11	RealMadrid	Liga	0-0	BetisSéville	0	0	REAL MADRID	N	Championnat	Février
+6	2019-06-11	RealMadrid	LDC	6-0	Galatasaray	6	0	REAL MADRID	V	LDC	Juin
+9	2019-09-11	Eibar	Liga	0-4	RealMadrid	0	4	REAL MADRID	V	Championnat	Septembre
+11	2019-11-23	RealMadrid	Liga	3-1	RealSociedad	3	1	REAL MADRID	V	Championnat	Novembre
+11	2019-11-26	RealMadrid	LDC	2-2	Paris-SG	2	2	REAL MADRID	N	LDC	Novembre
+11	2019-11-30	Alavés	Liga	1-2	RealMadrid	1	2	REAL MADRID	V	Championnat	Novembre
+7	2019-07-12	RealMadrid	Liga	2-0	EspanyolBarcelone	2	0	REAL MADRID	V	Championnat	Juillet
+11	2019-11-12	ClubBruges	LDC	1-3	RealMadrid	1	3	REAL MADRID	V	LDC	Novembre
+12	2019-12-15	ValenceCF	Liga	1-1	RealMadrid	1	1	REAL MADRID	N	Championnat	Décembre
+12	2019-12-18	FCBarcelone	Liga	0-0	RealMadrid	0	0	REAL MADRID	N	Championnat	Décembre
+12	2019-12-22	RealMadrid	Liga	0-0	AthleticBilbao	0	0	REAL MADRID	N	Championnat	Décembre
+4	2020-04-01	Getafe	Liga	0-3	RealMadrid	0	3	REAL MADRID	V	Championnat	Avril
+11	2019-11-08	ManchesterUnited	BPL	4-0	Chelsea	4	0	MANCHESTER UNITED	V	Championnat	Novembre
+8	2019-08-19	Wolverhampt.	BPL	1-1	ManchesterUnited	1	1	MANCHESTER UNITED	N	Championnat	Août
+8	2019-08-24	ManchesterUnited	BPL	1-2	CrystalPalace	1	2	MANCHESTER UNITED	D	Championnat	Août
+8	2019-08-31	Southampton	BPL	1-1	ManchesterUnited	1	1	MANCHESTER UNITED	N	Championnat	Août
+9	2019-09-14	ManchesterUnited	BPL	1-0	Leicester	1	0	MANCHESTER UNITED	V	Championnat	Septembre
+9	2019-09-19	ManchesterUnited	C3	1-0	FCAstana	1	0	MANCHESTER UNITED	V	C3	Septembre
+9	2019-09-22	WestHam	BPL	2-0	ManchesterUnited	2	0	MANCHESTER UNITED	D	Championnat	Septembre
+9	2019-09-25	ManchesterUnited	CL	1-1	Rochdale	1	1	MANCHESTER UNITED	N	CoupeNat	Septembre
+9	2019-09-30	ManchesterUnited	BPL	1-1	Arsenal	1	1	MANCHESTER UNITED	N	Championnat	Septembre
+3	2019-03-10	AZAlkmaar	C3	0-0	ManchesterUnited	0	0	MANCHESTER UNITED	N	C3	Mars
+6	2019-06-10	Newcastle	BPL	1-0	ManchesterUnited	1	0	MANCHESTER UNITED	D	Championnat	Juin
+10	2019-10-20	ManchesterUnited	BPL	1-1	Liverpool	1	1	MANCHESTER UNITED	N	Championnat	Octobre
+10	2019-10-24	PartizanBelgrade	C3	0-1	ManchesterUnited	0	1	MANCHESTER UNITED	V	C3	Octobre
+10	2019-10-27	Norwich	BPL	1-3	ManchesterUnited	1	3	MANCHESTER UNITED	V	Championnat	Octobre
+10	2019-10-30	Chelsea	CL	1-2	ManchesterUnited	1	2	MANCHESTER UNITED	V	CoupeNat	Octobre
+2	2019-02-11	Bournemouth	BPL	1-0	ManchesterUnited	1	0	MANCHESTER UNITED	D	Championnat	Février
+7	2019-07-11	ManchesterUnited	C3	3-0	PartizanBelgrade	3	0	MANCHESTER UNITED	V	C3	Juillet
+10	2019-10-11	ManchesterUnited	BPL	3-1	Brighton	3	1	MANCHESTER UNITED	V	Championnat	Octobre
+11	2019-11-24	SheffieldUtd	BPL	3-3	ManchesterUnited	3	3	MANCHESTER UNITED	N	Championnat	Novembre
+11	2019-11-28	FCAstana	C3	2-1	ManchesterUnited	2	1	MANCHESTER UNITED	D	C3	Novembre
+1	2019-01-12	ManchesterUnited	BPL	2-2	AstonVilla	2	2	MANCHESTER UNITED	N	Championnat	Janvier
+4	2019-04-12	ManchesterUnited	BPL	2-1	Tottenham	2	1	MANCHESTER UNITED	V	Championnat	Avril
+7	2019-07-12	ManchesterCity	BPL	1-2	ManchesterUnited	1	2	MANCHESTER UNITED	V	Championnat	Juillet
+12	2019-12-12	ManchesterUnited	C3	4-0	AZAlkmaar	4	0	MANCHESTER UNITED	V	C3	Décembre
+12	2019-12-15	ManchesterUnited	BPL	1-1	Everton	1	1	MANCHESTER UNITED	N	Championnat	Décembre
+12	2019-12-18	ManchesterUnited	CL	3-0	Colchester	3	0	MANCHESTER UNITED	V	CoupeNat	Décembre
+12	2019-12-22	Watford	BPL	2-0	ManchesterUnited	2	0	MANCHESTER UNITED	D	Championnat	Décembre
+12	2019-12-26	ManchesterUnited	BPL	4-1	Newcastle	4	1	MANCHESTER UNITED	V	Championnat	Décembre
+12	2019-12-28	Burnley	BPL	0-2	ManchesterUnited	0	2	MANCHESTER UNITED	V	Championnat	Décembre
+1	2020-01-01	Arsenal	BPL	2-0	ManchesterUnited	2	0	MANCHESTER UNITED	D	Championnat	Janvier
+4	2020-04-01	Wolverhampt.	CO	0-0	ManchesterUnited	0	0	MANCHESTER UNITED	N	CoupeNat	Avril
+4	2019-04-08	Liverpool	SC	1-1	ManchesterCity	1	1	MANCHESTER CITY	N	CoupeNat	Avril
+10	2019-10-08	WestHam	BPL	0-5	ManchesterCity	0	5	MANCHESTER CITY	V	Championnat	Octobre
+8	2019-08-17	ManchesterCity	BPL	2-2	Tottenham	2	2	MANCHESTER CITY	N	Championnat	Août
+8	2019-08-25	Bournemouth	BPL	1-3	ManchesterCity	1	3	MANCHESTER CITY	V	Championnat	Août
+8	2019-08-31	ManchesterCity	BPL	4-0	Brighton	4	0	MANCHESTER CITY	V	Championnat	Août
+9	2019-09-14	Norwich	BPL	3-2	ManchesterCity	3	2	MANCHESTER CITY	D	Championnat	Septembre
+9	2019-09-18	ChakhtiorDonetsk	LDC	0-3	ManchesterCity	0	3	MANCHESTER CITY	V	LDC	Septembre
+9	2019-09-21	ManchesterCity	BPL	8-0	Watford	8	0	MANCHESTER CITY	V	Championnat	Septembre
+9	2019-09-24	Preston	CL	0-3	ManchesterCity	0	3	MANCHESTER CITY	V	CoupeNat	Septembre
+9	2019-09-28	Everton	BPL	1-3	ManchesterCity	1	3	MANCHESTER CITY	V	Championnat	Septembre
+1	2019-01-10	ManchesterCity	LDC	2-0	DinamoZagreb	2	0	MANCHESTER CITY	V	LDC	Janvier
+6	2019-06-10	ManchesterCity	BPL	0-2	Wolverhampt.	0	2	MANCHESTER CITY	D	Championnat	Juin
+10	2019-10-19	CrystalPalace	BPL	0-2	ManchesterCity	0	2	MANCHESTER CITY	V	Championnat	Octobre
+10	2019-10-22	ManchesterCity	LDC	5-1	AtalantaBergame	5	1	MANCHESTER CITY	V	LDC	Octobre
+10	2019-10-26	ManchesterCity	BPL	3-0	AstonVilla	3	0	MANCHESTER CITY	V	Championnat	Octobre
+10	2019-10-29	ManchesterCity	CL	3-1	Southampton	3	1	MANCHESTER CITY	V	CoupeNat	Octobre
+2	2019-02-11	ManchesterCity	BPL	2-1	Southampton	2	1	MANCHESTER CITY	V	Championnat	Février
+6	2019-06-11	AtalantaBergame	LDC	1-1	ManchesterCity	1	1	MANCHESTER CITY	N	LDC	Juin
+10	2019-10-11	Liverpool	BPL	3-1	ManchesterCity	3	1	MANCHESTER CITY	D	Championnat	Octobre
+11	2019-11-23	ManchesterCity	BPL	2-1	Chelsea	2	1	MANCHESTER CITY	V	Championnat	Novembre
+11	2019-11-26	ManchesterCity	LDC	1-1	ChakhtiorDonetsk	1	1	MANCHESTER CITY	N	LDC	Novembre
+11	2019-11-30	Newcastle	BPL	2-2	ManchesterCity	2	2	MANCHESTER CITY	N	Championnat	Novembre
+3	2019-03-12	Burnley	BPL	1-4	ManchesterCity	1	4	MANCHESTER CITY	V	Championnat	Mars
+7	2019-07-12	ManchesterCity	BPL	1-2	ManchesterUnited	1	2	MANCHESTER CITY	D	Championnat	Juillet
+11	2019-11-12	DinamoZagreb	LDC	1-4	ManchesterCity	1	4	MANCHESTER CITY	V	LDC	Novembre
+12	2019-12-15	Arsenal	BPL	0-3	ManchesterCity	0	3	MANCHESTER CITY	V	Championnat	Décembre
+12	2019-12-18	OxfordUnited	CL	1-3	ManchesterCity	1	3	MANCHESTER CITY	V	CoupeNat	Décembre
+12	2019-12-21	ManchesterCity	BPL	3-1	Leicester	3	1	MANCHESTER CITY	V	Championnat	Décembre
+12	2019-12-27	Wolverhampt.	BPL	3-2	ManchesterCity	3	2	MANCHESTER CITY	D	Championnat	Décembre
+12	2019-12-29	ManchesterCity	BPL	2-0	SheffieldUtd	2	0	MANCHESTER CITY	V	Championnat	Décembre
+1	2020-01-01	ManchesterCity	BPL	2-1	Everton	2	1	MANCHESTER CITY	V	Championnat	Janvier
+4	2020-04-01	ManchesterCity	CO	4-1	PortVale	4	1	MANCHESTER CITY	V	CoupeNat	Avril
+7	2019-07-28	Arsenal	MA	1-2	Lyon	1	2	ARSENAL	D	Amicaux	Juillet
+7	2019-07-31	Angers	MA	1-2	Arsenal	1	2	ARSENAL	V	Amicaux	Juillet
+11	2019-11-08	Newcastle	BPL	0-1	Arsenal	0	1	ARSENAL	V	Championnat	Novembre
+8	2019-08-17	Arsenal	BPL	2-1	Burnley	2	1	ARSENAL	V	Championnat	Août
+8	2019-08-24	Liverpool	BPL	3-1	Arsenal	3	1	ARSENAL	D	Championnat	Août
+1	2019-01-09	Arsenal	BPL	2-2	Tottenham	2	2	ARSENAL	N	Championnat	Janvier
+9	2019-09-15	Watford	BPL	2-2	Arsenal	2	2	ARSENAL	N	Championnat	Septembre
+9	2019-09-19	EintrachtFrancfort	C3	0-3	Arsenal	0	3	ARSENAL	V	C3	Septembre
+9	2019-09-22	Arsenal	BPL	3-2	AstonVilla	3	2	ARSENAL	V	Championnat	Septembre
+9	2019-09-24	Arsenal	CL	5-0	NottinghamForest	5	0	ARSENAL	V	CoupeNat	Septembre
+9	2019-09-30	ManchesterUnited	BPL	1-1	Arsenal	1	1	ARSENAL	N	Championnat	Septembre
+3	2019-03-10	Arsenal	C3	4-0	StandarddeLiège	4	0	ARSENAL	V	C3	Mars
+6	2019-06-10	Arsenal	BPL	1-0	Bournemouth	1	0	ARSENAL	V	Championnat	Juin
+10	2019-10-21	SheffieldUtd	BPL	1-0	Arsenal	1	0	ARSENAL	D	Championnat	Octobre
+10	2019-10-24	Arsenal	C3	3-2	VitoriaGuimaraes	3	2	ARSENAL	V	C3	Octobre
+10	2019-10-27	Arsenal	BPL	2-2	CrystalPalace	2	2	ARSENAL	N	Championnat	Octobre
+10	2019-10-30	Liverpool	CL	5-5	Arsenal	5	5	ARSENAL	N	CoupeNat	Octobre
+2	2019-02-11	Arsenal	BPL	1-1	Wolverhampt.	1	1	ARSENAL	N	Championnat	Février
+6	2019-06-11	VitoriaGuimaraes	C3	1-1	Arsenal	1	1	ARSENAL	N	C3	Juin
+9	2019-09-11	Leicester	BPL	2-0	Arsenal	2	0	ARSENAL	D	Championnat	Septembre
+11	2019-11-23	Arsenal	BPL	2-2	Southampton	2	2	ARSENAL	N	Championnat	Novembre
+11	2019-11-28	Arsenal	C3	1-2	EintrachtFrancfort	1	2	ARSENAL	D	C3	Novembre
+1	2019-01-12	Norwich	BPL	2-2	Arsenal	2	2	ARSENAL	N	Championnat	Janvier
+5	2019-05-12	Arsenal	BPL	1-2	Brighton	1	2	ARSENAL	D	Championnat	Mai
+9	2019-09-12	WestHam	BPL	1-3	Arsenal	1	3	ARSENAL	V	Championnat	Septembre
+12	2019-12-12	StandarddeLiège	C3	2-2	Arsenal	2	2	ARSENAL	N	C3	Décembre
+12	2019-12-15	Arsenal	BPL	0-3	ManchesterCity	0	3	ARSENAL	D	Championnat	Décembre
+12	2019-12-21	Everton	BPL	0-0	Arsenal	0	0	ARSENAL	N	Championnat	Décembre
+12	2019-12-26	Bournemouth	BPL	1-1	Arsenal	1	1	ARSENAL	N	Championnat	Décembre
+12	2019-12-29	Arsenal	BPL	1-2	Chelsea	1	2	ARSENAL	D	Championnat	Décembre
+1	2020-01-01	Arsenal	BPL	2-0	ManchesterUnited	2	0	ARSENAL	V	Championnat	Janvier
+11	2019-11-08	Leicester	BPL	0-0	Wolverhampt.	0	0	LEICESTER	N	Championnat	Novembre
+8	2019-08-18	Chelsea	BPL	1-1	Leicester	1	1	LEICESTER	N	Championnat	Août
+8	2019-08-24	SheffieldUtd	BPL	1-2	Leicester	1	2	LEICESTER	V	Championnat	Août
+8	2019-08-28	Newcastle	CL	1-1	Leicester	1	1	LEICESTER	N	CoupeNat	Août
+8	2019-08-31	Leicester	BPL	3-1	Bournemouth	3	1	LEICESTER	V	Championnat	Août
+9	2019-09-14	ManchesterUnited	BPL	1-0	Leicester	1	0	LEICESTER	D	Championnat	Septembre
+9	2019-09-21	Leicester	BPL	2-1	Tottenham	2	1	LEICESTER	V	Championnat	Septembre
+9	2019-09-24	Luton	CL	0-4	Leicester	0	4	LEICESTER	V	CoupeNat	Septembre
+9	2019-09-29	Leicester	BPL	5-0	Newcastle	5	0	LEICESTER	V	Championnat	Septembre
+5	2019-05-10	Liverpool	BPL	2-1	Leicester	2	1	LEICESTER	D	Championnat	Mai
+10	2019-10-19	Leicester	BPL	2-1	Burnley	2	1	LEICESTER	V	Championnat	Octobre
+10	2019-10-25	Southampton	BPL	0-9	Leicester	0	9	LEICESTER	V	Championnat	Octobre
+10	2019-10-29	Burton	CL	1-3	Leicester	1	3	LEICESTER	V	CoupeNat	Octobre
+3	2019-03-11	CrystalPalace	BPL	0-2	Leicester	0	2	LEICESTER	V	Championnat	Mars
+9	2019-09-11	Leicester	BPL	2-0	Arsenal	2	0	LEICESTER	V	Championnat	Septembre
+11	2019-11-23	Brighton	BPL	0-2	Leicester	0	2	LEICESTER	V	Championnat	Novembre
+1	2019-01-12	Leicester	BPL	2-1	Everton	2	1	LEICESTER	V	Championnat	Janvier
+4	2019-04-12	Leicester	BPL	2-0	Watford	2	0	LEICESTER	V	Championnat	Avril
+8	2019-08-12	AstonVilla	BPL	1-4	Leicester	1	4	LEICESTER	V	Championnat	Août
+12	2019-12-14	Leicester	BPL	1-1	Norwich	1	1	LEICESTER	N	Championnat	Décembre
+12	2019-12-18	Everton	CL	2-2	Leicester	2	2	LEICESTER	N	CoupeNat	Décembre
+12	2019-12-21	ManchesterCity	BPL	3-1	Leicester	3	1	LEICESTER	D	Championnat	Décembre
+12	2019-12-26	Leicester	BPL	0-4	Liverpool	0	4	LEICESTER	D	Championnat	Décembre
+12	2019-12-28	WestHam	BPL	1-2	Leicester	1	2	LEICESTER	V	Championnat	Décembre
+1	2020-01-01	Newcastle	BPL	0-3	Leicester	0	3	LEICESTER	V	Championnat	Janvier
+4	2020-04-01	Leicester	CO	2-0	Wigan	2	0	LEICESTER	V	CoupeNat	Avril
+11	2019-11-08	ManchesterUnited	BPL	4-0	Chelsea	4	0	CHELSEA	D	Championnat	Novembre
+8	2019-08-14	Liverpool	SC	2-2	Chelsea	2	2	CHELSEA	N	CoupeNat	Août
+8	2019-08-18	Chelsea	BPL	1-1	Leicester	1	1	CHELSEA	N	Championnat	Août
+8	2019-08-24	Norwich	BPL	2-3	Chelsea	2	3	CHELSEA	V	Championnat	Août
+8	2019-08-31	Chelsea	BPL	2-2	SheffieldUtd	2	2	CHELSEA	N	Championnat	Août
+9	2019-09-14	Wolverhampt.	BPL	2-5	Chelsea	2	5	CHELSEA	V	Championnat	Septembre
+9	2019-09-17	Chelsea	LDC	0-1	ValenceCF	0	1	CHELSEA	D	LDC	Septembre
+9	2019-09-22	Chelsea	BPL	1-2	Liverpool	1	2	CHELSEA	D	Championnat	Septembre
+9	2019-09-25	Chelsea	CL	7-1	Grimsby	7	1	CHELSEA	V	CoupeNat	Septembre
+9	2019-09-28	Chelsea	BPL	2-0	Brighton	2	0	CHELSEA	V	Championnat	Septembre
+2	2019-02-10	Lille	LDC	1-2	Chelsea	1	2	CHELSEA	V	LDC	Février
+6	2019-06-10	Southampton	BPL	1-4	Chelsea	1	4	CHELSEA	V	Championnat	Juin
+10	2019-10-19	Chelsea	BPL	1-0	Newcastle	1	0	CHELSEA	V	Championnat	Octobre
+10	2019-10-23	AjaxAmsterdam	LDC	0-1	Chelsea	0	1	CHELSEA	V	LDC	Octobre
+10	2019-10-26	Burnley	BPL	2-4	Chelsea	2	4	CHELSEA	V	Championnat	Octobre
+10	2019-10-30	Chelsea	CL	1-2	ManchesterUnited	1	2	CHELSEA	D	CoupeNat	Octobre
+2	2019-02-11	Watford	BPL	1-2	Chelsea	1	2	CHELSEA	V	Championnat	Février
+5	2019-05-11	Chelsea	LDC	4-4	AjaxAmsterdam	4	4	CHELSEA	N	LDC	Mai
+9	2019-09-11	Chelsea	BPL	2-0	CrystalPalace	2	0	CHELSEA	V	Championnat	Septembre
+11	2019-11-23	ManchesterCity	BPL	2-1	Chelsea	2	1	CHELSEA	D	Championnat	Novembre
+11	2019-11-27	ValenceCF	LDC	2-2	Chelsea	2	2	CHELSEA	N	LDC	Novembre
+11	2019-11-30	Chelsea	BPL	0-1	WestHam	0	1	CHELSEA	D	Championnat	Novembre
+4	2019-04-12	Chelsea	BPL	2-1	AstonVilla	2	1	CHELSEA	V	Championnat	Avril
+7	2019-07-12	Everton	BPL	3-1	Chelsea	3	1	CHELSEA	D	Championnat	Juillet
+10	2019-10-12	Chelsea	LDC	2-1	Lille	2	1	CHELSEA	V	LDC	Octobre
+12	2019-12-14	Chelsea	BPL	0-1	Bournemouth	0	1	CHELSEA	D	Championnat	Décembre
+12	2019-12-22	Tottenham	BPL	0-2	Chelsea	0	2	CHELSEA	V	Championnat	Décembre
+12	2019-12-26	Chelsea	BPL	0-2	Southampton	0	2	CHELSEA	D	Championnat	Décembre
+12	2019-12-29	Arsenal	BPL	1-2	Chelsea	1	2	CHELSEA	V	Championnat	Décembre
+1	2020-01-01	Brighton	BPL	1-1	Chelsea	1	1	CHELSEA	N	Championnat	Janvier
+5	2020-05-01	Chelsea	CO	2-0	NottinghamForest	2	0	CHELSEA	V	CoupeNat	Mai
+8	2019-08-24	Parme	SerieA	0-1	JuventusTurin	0	1	JUVENTUS TURIN	V	Championnat	Août
+8	2019-08-31	JuventusTurin	SerieA	4-3	Naples	4	3	JUVENTUS TURIN	V	Championnat	Août
+9	2019-09-14	Fiorentina	SerieA	0-0	JuventusTurin	0	0	JUVENTUS TURIN	N	Championnat	Septembre
+9	2019-09-18	AtléticodeMadrid	LDC	2-2	JuventusTurin	2	2	JUVENTUS TURIN	N	LDC	Septembre
+9	2019-09-21	JuventusTurin	SerieA	2-1	HellasVérone	2	1	JUVENTUS TURIN	V	Championnat	Septembre
+9	2019-09-24	Brescia	SerieA	1-2	JuventusTurin	1	2	JUVENTUS TURIN	V	Championnat	Septembre
+9	2019-09-28	JuventusTurin	SerieA	2-0	SPAL	2	0	JUVENTUS TURIN	V	Championnat	Septembre
+1	2019-01-10	JuventusTurin	LDC	3-0	BayerLeverkusen	3	0	JUVENTUS TURIN	V	LDC	Janvier
+6	2019-06-10	InterMilan	SerieA	1-2	JuventusTurin	1	2	JUVENTUS TURIN	V	Championnat	Juin
+10	2019-10-19	JuventusTurin	SerieA	2-1	Bologne	2	1	JUVENTUS TURIN	V	Championnat	Octobre
+10	2019-10-22	JuventusTurin	LDC	2-1	LokomotivMoscou	2	1	JUVENTUS TURIN	V	LDC	Octobre
+10	2019-10-26	Lecce	SerieA	1-1	JuventusTurin	1	1	JUVENTUS TURIN	N	Championnat	Octobre
+10	2019-10-30	JuventusTurin	SerieA	2-1	Genoa	2	1	JUVENTUS TURIN	V	Championnat	Octobre
+2	2019-02-11	Torino	SerieA	0-1	JuventusTurin	0	1	JUVENTUS TURIN	V	Championnat	Février
+6	2019-06-11	LokomotivMoscou	LDC	1-2	JuventusTurin	1	2	JUVENTUS TURIN	V	LDC	Juin
+10	2019-10-11	JuventusTurin	SerieA	1-0	ACMilan	1	0	JUVENTUS TURIN	V	Championnat	Octobre
+11	2019-11-23	AtalantaBergame	SerieA	1-3	JuventusTurin	1	3	JUVENTUS TURIN	V	Championnat	Novembre
+11	2019-11-26	JuventusTurin	LDC	1-0	AtléticodeMadrid	1	0	JUVENTUS TURIN	V	LDC	Novembre
+1	2019-01-12	JuventusTurin	SerieA	2-2	Sassuolo	2	2	JUVENTUS TURIN	N	Championnat	Janvier
+7	2019-07-12	LazioRome	SerieA	3-1	JuventusTurin	3	1	JUVENTUS TURIN	D	Championnat	Juillet
+11	2019-11-12	BayerLeverkusen	LDC	0-2	JuventusTurin	0	2	JUVENTUS TURIN	V	LDC	Novembre
+12	2019-12-15	JuventusTurin	SerieA	3-1	Udinese	3	1	JUVENTUS TURIN	V	Championnat	Décembre
+12	2019-12-18	SampdoriaGênes	SerieA	1-2	JuventusTurin	1	2	JUVENTUS TURIN	V	Championnat	Décembre
+12	2019-12-22	JuventusTurin	SC	1-3	LazioRome	1	3	JUVENTUS TURIN	D	CoupeNat	Décembre
+6	2020-06-01	JuventusTurin	SerieA	4-0	Cagliari	4	0	JUVENTUS TURIN	V	Championnat	Juin
+4	2019-04-08	Marseille	MA	0-1	Naples	0	1	NAPLES	V	Amicaux	Avril
+8	2019-08-24	Fiorentina	SerieA	3-4	Naples	3	4	NAPLES	V	Championnat	Août
+8	2019-08-31	JuventusTurin	SerieA	4-3	Naples	4	3	NAPLES	D	Championnat	Août
+9	2019-09-14	Naples	SerieA	2-0	SampdoriaGênes	2	0	NAPLES	V	Championnat	Septembre
+9	2019-09-17	Naples	LDC	2-0	Liverpool	2	0	NAPLES	V	LDC	Septembre
+9	2019-09-22	Lecce	SerieA	1-4	Naples	1	4	NAPLES	V	Championnat	Septembre
+9	2019-09-25	Naples	SerieA	0-1	Cagliari	0	1	NAPLES	D	Championnat	Septembre
+9	2019-09-29	Naples	SerieA	2-1	Brescia	2	1	NAPLES	V	Championnat	Septembre
+2	2019-02-10	RacingGenk	LDC	0-0	Naples	0	0	NAPLES	N	LDC	Février
+6	2019-06-10	Torino	SerieA	0-0	Naples	0	0	NAPLES	N	Championnat	Juin
+10	2019-10-19	Naples	SerieA	2-0	HellasVérone	2	0	NAPLES	V	Championnat	Octobre
+10	2019-10-23	RBSalzbourg	LDC	2-3	Naples	2	3	NAPLES	V	LDC	Octobre
+10	2019-10-27	SPAL	SerieA	1-1	Naples	1	1	NAPLES	N	Championnat	Octobre
+10	2019-10-30	Naples	SerieA	2-2	AtalantaBergame	2	2	NAPLES	N	Championnat	Octobre
+2	2019-02-11	ASRome	SerieA	2-1	Naples	2	1	NAPLES	D	Championnat	Février
+5	2019-05-11	Naples	LDC	1-1	RBSalzbourg	1	1	NAPLES	N	LDC	Mai
+9	2019-09-11	Naples	SerieA	0-0	Genoa	0	0	NAPLES	N	Championnat	Septembre
+11	2019-11-23	ACMilan	SerieA	1-1	Naples	1	1	NAPLES	N	Championnat	Novembre
+11	2019-11-27	Liverpool	LDC	1-1	Naples	1	1	NAPLES	N	LDC	Novembre
+1	2019-01-12	Naples	SerieA	1-2	Bologne	1	2	NAPLES	D	Championnat	Janvier
+7	2019-07-12	Udinese	SerieA	1-1	Naples	1	1	NAPLES	N	Championnat	Juillet
+10	2019-10-12	Naples	LDC	4-0	RacingGenk	4	0	NAPLES	V	LDC	Octobre
+12	2019-12-14	Naples	SerieA	1-2	Parme	1	2	NAPLES	D	Championnat	Décembre
+12	2019-12-22	Sassuolo	SerieA	1-2	Naples	1	2	NAPLES	V	Championnat	Décembre
+8	2019-08-25	Udinese	SerieA	1-0	ACMilan	1	0	AC MILAN	D	Championnat	Août
+8	2019-08-31	ACMilan	SerieA	1-0	Brescia	1	0	AC MILAN	V	Championnat	Août
+9	2019-09-15	HellasVérone	SerieA	0-1	ACMilan	0	1	AC MILAN	V	Championnat	Septembre
+9	2019-09-21	ACMilan	SerieA	0-2	InterMilan	0	2	AC MILAN	D	Championnat	Septembre
+9	2019-09-26	Torino	SerieA	2-1	ACMilan	2	1	AC MILAN	D	Championnat	Septembre
+9	2019-09-29	ACMilan	SerieA	1-3	Fiorentina	1	3	AC MILAN	D	Championnat	Septembre
+5	2019-05-10	Genoa	SerieA	1-2	ACMilan	1	2	AC MILAN	V	Championnat	Mai
+10	2019-10-20	ACMilan	SerieA	2-2	Lecce	2	2	AC MILAN	N	Championnat	Octobre
+10	2019-10-27	ASRome	SerieA	2-1	ACMilan	2	1	AC MILAN	D	Championnat	Octobre
+10	2019-10-31	ACMilan	SerieA	1-0	SPAL	1	0	AC MILAN	V	Championnat	Octobre
+3	2019-03-11	ACMilan	SerieA	1-2	LazioRome	1	2	AC MILAN	D	Championnat	Mars
+10	2019-10-11	JuventusTurin	SerieA	1-0	ACMilan	1	0	AC MILAN	D	Championnat	Octobre
+11	2019-11-23	ACMilan	SerieA	1-1	Naples	1	1	AC MILAN	N	Championnat	Novembre
+1	2019-01-12	Parme	SerieA	0-1	ACMilan	0	1	AC MILAN	V	Championnat	Janvier
+8	2019-08-12	Bologne	SerieA	2-3	ACMilan	2	3	AC MILAN	V	Championnat	Août
+12	2019-12-15	ACMilan	SerieA	0-0	Sassuolo	0	0	AC MILAN	N	Championnat	Décembre
+12	2019-12-22	AtalantaBergame	SerieA	5-0	ACMilan	5	0	AC MILAN	D	Championnat	Décembre
+6	2020-06-01	ACMilan	SerieA	0-0	SampdoriaGênes	0	0	AC MILAN	N	Championnat	Juin
+7	2019-07-27	Paris-SG	MA	1-1	InterMilan	1	1	INTER MILAN	N	Amicaux	Juillet
+8	2019-08-26	InterMilan	SerieA	4-0	Lecce	4	0	INTER MILAN	V	Championnat	Août
+1	2019-01-09	Cagliari	SerieA	1-2	InterMilan	1	2	INTER MILAN	V	Championnat	Janvier
+9	2019-09-14	InterMilan	SerieA	1-0	Udinese	1	0	INTER MILAN	V	Championnat	Septembre
+9	2019-09-17	InterMilan	LDC	1-1	SlaviaPrague	1	1	INTER MILAN	N	LDC	Septembre
+9	2019-09-21	ACMilan	SerieA	0-2	InterMilan	0	2	INTER MILAN	V	Championnat	Septembre
+9	2019-09-25	InterMilan	SerieA	1-0	LazioRome	1	0	INTER MILAN	V	Championnat	Septembre
+9	2019-09-28	SampdoriaGênes	SerieA	1-3	InterMilan	1	3	INTER MILAN	V	Championnat	Septembre
+2	2019-02-10	FCBarcelone	LDC	2-1	InterMilan	2	1	INTER MILAN	D	LDC	Février
+6	2019-06-10	InterMilan	SerieA	1-2	JuventusTurin	1	2	INTER MILAN	D	Championnat	Juin
+10	2019-10-20	Sassuolo	SerieA	3-4	InterMilan	3	4	INTER MILAN	V	Championnat	Octobre
+10	2019-10-23	InterMilan	LDC	2-0	BorussiaDortmund	2	0	INTER MILAN	V	LDC	Octobre
+10	2019-10-26	InterMilan	SerieA	2-2	Parme	2	2	INTER MILAN	N	Championnat	Octobre
+10	2019-10-29	Brescia	SerieA	1-2	InterMilan	1	2	INTER MILAN	V	Championnat	Octobre
+2	2019-02-11	Bologne	SerieA	1-2	InterMilan	1	2	INTER MILAN	V	Championnat	Février
+5	2019-05-11	BorussiaDortmund	LDC	3-2	InterMilan	3	2	INTER MILAN	D	LDC	Mai
+9	2019-09-11	InterMilan	SerieA	2-1	HellasVérone	2	1	INTER MILAN	V	Championnat	Septembre
+11	2019-11-23	Torino	SerieA	0-3	InterMilan	0	3	INTER MILAN	V	Championnat	Novembre
+11	2019-11-27	SlaviaPrague	LDC	1-3	InterMilan	1	3	INTER MILAN	V	LDC	Novembre
+1	2019-01-12	InterMilan	SerieA	2-1	SPAL	2	1	INTER MILAN	V	Championnat	Janvier
+6	2019-06-12	InterMilan	SerieA	0-0	ASRome	0	0	INTER MILAN	N	Championnat	Juin
+10	2019-10-12	InterMilan	LDC	1-2	FCBarcelone	1	2	INTER MILAN	D	LDC	Octobre
+12	2019-12-15	Fiorentina	SerieA	1-1	InterMilan	1	1	INTER MILAN	N	Championnat	Décembre
+12	2019-12-21	InterMilan	SerieA	4-0	Genoa	4	0	INTER MILAN	V	Championnat	Décembre
+6	2020-06-01	Naples	SerieA	1-3	InterMilan	1	3	INTER MILAN	V	Championnat	Juin
+3	2019-03-08	Lille	MA	2-3	ASRome	2	3	AS ROME	V	Amicaux	Mars
+8	2019-08-25	ASRome	SerieA	3-3	Genoa	3	3	AS ROME	N	Championnat	Août
+1	2019-01-09	LazioRome	SerieA	1-1	ASRome	1	1	AS ROME	N	Championnat	Janvier
+9	2019-09-15	ASRome	SerieA	4-2	Sassuolo	4	2	AS ROME	V	Championnat	Septembre
+9	2019-09-19	ASRome	C3	4-0	IstanbulBasaksehir	4	0	AS ROME	V	C3	Septembre
+9	2019-09-22	Bologne	SerieA	1-2	ASRome	1	2	AS ROME	V	Championnat	Septembre
+9	2019-09-25	ASRome	SerieA	0-2	AtalantaBergame	0	2	AS ROME	D	Championnat	Septembre
+9	2019-09-29	Lecce	SerieA	0-1	ASRome	0	1	AS ROME	V	Championnat	Septembre
+3	2019-03-10	WolfsbergerAC	C3	1-1	ASRome	1	1	AS ROME	N	C3	Mars
+6	2019-06-10	ASRome	SerieA	1-1	Cagliari	1	1	AS ROME	N	Championnat	Juin
+10	2019-10-20	SampdoriaGênes	SerieA	0-0	ASRome	0	0	AS ROME	N	Championnat	Octobre
+10	2019-10-24	ASRome	C3	1-1	BorussiaM'Gladbach	1	1	AS ROME	N	C3	Octobre
+10	2019-10-27	ASRome	SerieA	2-1	ACMilan	2	1	AS ROME	V	Championnat	Octobre
+10	2019-10-30	Udinese	SerieA	0-4	ASRome	0	4	AS ROME	V	Championnat	Octobre
+2	2019-02-11	ASRome	SerieA	2-1	Naples	2	1	AS ROME	V	Championnat	Février
+7	2019-07-11	BorussiaM'Gladbach	C3	2-1	ASRome	2	1	AS ROME	D	C3	Juillet
+10	2019-10-11	Parme	SerieA	2-0	ASRome	2	0	AS ROME	D	Championnat	Octobre
+11	2019-11-24	ASRome	SerieA	3-0	Brescia	3	0	AS ROME	V	Championnat	Novembre
+11	2019-11-28	IstanbulBasaksehir	C3	0-3	ASRome	0	3	AS ROME	V	C3	Novembre
+1	2019-01-12	HellasVérone	SerieA	1-3	ASRome	1	3	AS ROME	V	Championnat	Janvier
+6	2019-06-12	InterMilan	SerieA	0-0	ASRome	0	0	AS ROME	N	Championnat	Juin
+12	2019-12-12	ASRome	C3	2-2	WolfsbergerAC	2	2	AS ROME	N	C3	Décembre
+12	2019-12-15	ASRome	SerieA	3-1	SPAL	3	1	AS ROME	V	Championnat	Décembre
+12	2019-12-20	Fiorentina	SerieA	1-4	ASRome	1	4	AS ROME	V	Championnat	Décembre
+5	2020-05-01	ASRome	SerieA	0-2	Torino	0	2	AS ROME	D	Championnat	Mai
+3	2019-03-08	BorussiaDortmund	SC	2-0	BayernMunich	2	0	BAYERN MUNICH	D	CoupeNat	Mars
+12	2019-12-08	EnergieCottbus	CN	1-3	BayernMunich	1	3	BAYERN MUNICH	V	CoupeNat	Décembre
+8	2019-08-16	BayernMunich	Bundes	2-2	HerthaBerlin	2	2	BAYERN MUNICH	N	Championnat	Août
+8	2019-08-24	Schalke04	Bundes	0-3	BayernMunich	0	3	BAYERN MUNICH	V	Championnat	Août
+8	2019-08-31	BayernMunich	Bundes	6-1	Mayence	6	1	BAYERN MUNICH	V	Championnat	Août
+9	2019-09-14	RBLeipzig	Bundes	1-1	BayernMunich	1	1	BAYERN MUNICH	N	Championnat	Septembre
+9	2019-09-18	BayernMunich	LDC	3-0	EtoileRougeBelgrade	3	0	BAYERN MUNICH	V	LDC	Septembre
+9	2019-09-21	BayernMunich	Bundes	4-0	FCCologne	4	0	BAYERN MUNICH	V	Championnat	Septembre
+9	2019-09-28	Paderborn	Bundes	2-3	BayernMunich	2	3	BAYERN MUNICH	V	Championnat	Septembre
+1	2019-01-10	Tottenham	LDC	2-7	BayernMunich	2	7	BAYERN MUNICH	V	LDC	Janvier
+5	2019-05-10	BayernMunich	Bundes	1-2	Hoffenheim	1	2	BAYERN MUNICH	D	Championnat	Mai
+10	2019-10-19	Augsbourg	Bundes	2-2	BayernMunich	2	2	BAYERN MUNICH	N	Championnat	Octobre
+10	2019-10-22	Olympiakos	LDC	2-3	BayernMunich	2	3	BAYERN MUNICH	V	LDC	Octobre
+10	2019-10-26	BayernMunich	Bundes	2-1	UnionBerlin	2	1	BAYERN MUNICH	V	Championnat	Octobre
+10	2019-10-29	Bochum	CN	1-2	BayernMunich	1	2	BAYERN MUNICH	V	CoupeNat	Octobre
+2	2019-02-11	EintrachtFrancfort	Bundes	5-1	BayernMunich	5	1	BAYERN MUNICH	D	Championnat	Février
+6	2019-06-11	BayernMunich	LDC	2-0	Olympiakos	2	0	BAYERN MUNICH	V	LDC	Juin
+9	2019-09-11	BayernMunich	Bundes	4-0	BorussiaDortmund	4	0	BAYERN MUNICH	V	Championnat	Septembre
+11	2019-11-23	FortunaDüsseldorf	Bundes	0-4	BayernMunich	0	4	BAYERN MUNICH	V	Championnat	Novembre
+11	2019-11-26	EtoileRougeBelgrade	LDC	0-6	BayernMunich	0	6	BAYERN MUNICH	V	LDC	Novembre
+11	2019-11-30	BayernMunich	Bundes	1-2	BayerLeverkusen	1	2	BAYERN MUNICH	D	Championnat	Novembre
+7	2019-07-12	BorussiaM'Gladbach	Bundes	2-1	BayernMunich	2	1	BAYERN MUNICH	D	Championnat	Juillet
+11	2019-11-12	BayernMunich	LDC	3-1	Tottenham	3	1	BAYERN MUNICH	V	LDC	Novembre
+12	2019-12-14	BayernMunich	Bundes	6-1	WerderBrême	6	1	BAYERN MUNICH	V	Championnat	Décembre
+12	2019-12-18	Fribourg	Bundes	1-3	BayernMunich	1	3	BAYERN MUNICH	V	Championnat	Décembre
+12	2019-12-21	BayernMunich	Bundes	2-0	Wolfsburg	2	0	BAYERN MUNICH	V	Championnat	Décembre
+3	2019-03-08	BorussiaDortmund	SC	2-0	BayernMunich	2	0	BORUSSIA DORTMUND	V	CoupeNat	Mars
+9	2019-09-08	Uerdingen	CN	0-2	BorussiaDortmund	0	2	BORUSSIA DORTMUND	V	CoupeNat	Septembre
+8	2019-08-17	BorussiaDortmund	Bundes	5-1	Augsbourg	5	1	BORUSSIA DORTMUND	V	Championnat	Août
+8	2019-08-23	FCCologne	Bundes	1-3	BorussiaDortmund	1	3	BORUSSIA DORTMUND	V	Championnat	Août
+8	2019-08-31	UnionBerlin	Bundes	3-1	BorussiaDortmund	3	1	BORUSSIA DORTMUND	D	Championnat	Août
+9	2019-09-14	BorussiaDortmund	Bundes	4-0	BayerLeverkusen	4	0	BORUSSIA DORTMUND	V	Championnat	Septembre
+9	2019-09-17	BorussiaDortmund	LDC	0-0	FCBarcelone	0	0	BORUSSIA DORTMUND	N	LDC	Septembre
+9	2019-09-22	EintrachtFrancfort	Bundes	2-2	BorussiaDortmund	2	2	BORUSSIA DORTMUND	N	Championnat	Septembre
+9	2019-09-28	BorussiaDortmund	Bundes	2-2	WerderBrême	2	2	BORUSSIA DORTMUND	N	Championnat	Septembre
+2	2019-02-10	SlaviaPrague	LDC	0-2	BorussiaDortmund	0	2	BORUSSIA DORTMUND	V	LDC	Février
+5	2019-05-10	Fribourg	Bundes	2-2	BorussiaDortmund	2	2	BORUSSIA DORTMUND	N	Championnat	Mai
+10	2019-10-19	BorussiaDortmund	Bundes	1-0	BorussiaM'Gladbach	1	0	BORUSSIA DORTMUND	V	Championnat	Octobre
+10	2019-10-23	InterMilan	LDC	2-0	BorussiaDortmund	2	0	BORUSSIA DORTMUND	D	LDC	Octobre
+10	2019-10-26	Schalke04	Bundes	0-0	BorussiaDortmund	0	0	BORUSSIA DORTMUND	N	Championnat	Octobre
+10	2019-10-30	BorussiaDortmund	CN	2-1	BorussiaM'Gladbach	2	1	BORUSSIA DORTMUND	V	CoupeNat	Octobre
+2	2019-02-11	BorussiaDortmund	Bundes	3-0	Wolfsburg	3	0	BORUSSIA DORTMUND	V	Championnat	Février
+5	2019-05-11	BorussiaDortmund	LDC	3-2	InterMilan	3	2	BORUSSIA DORTMUND	V	LDC	Mai
+9	2019-09-11	BayernMunich	Bundes	4-0	BorussiaDortmund	4	0	BORUSSIA DORTMUND	D	Championnat	Septembre
+11	2019-11-22	BorussiaDortmund	Bundes	3-3	Paderborn	3	3	BORUSSIA DORTMUND	N	Championnat	Novembre
+11	2019-11-27	FCBarcelone	LDC	3-1	BorussiaDortmund	3	1	BORUSSIA DORTMUND	D	LDC	Novembre
+11	2019-11-30	HerthaBerlin	Bundes	1-2	BorussiaDortmund	1	2	BORUSSIA DORTMUND	V	Championnat	Novembre
+7	2019-07-12	BorussiaDortmund	Bundes	5-0	FortunaDüsseldorf	5	0	BORUSSIA DORTMUND	V	Championnat	Juillet
+10	2019-10-12	BorussiaDortmund	LDC	2-1	SlaviaPrague	2	1	BORUSSIA DORTMUND	V	LDC	Octobre
+12	2019-12-14	Mayence	Bundes	0-4	BorussiaDortmund	0	4	BORUSSIA DORTMUND	V	Championnat	Décembre
+12	2019-12-17	BorussiaDortmund	Bundes	3-3	RBLeipzig	3	3	BORUSSIA DORTMUND	N	Championnat	Décembre
+12	2019-12-20	Hoffenheim	Bundes	2-1	BorussiaDortmund	2	1	BORUSSIA DORTMUND	D	Championnat	Décembre
+10	2019-10-08	AlemanniaAachen	CN	1-4	BayerLeverkusen	1	4	BAYER LEVERKUSEN	V	CoupeNat	Octobre
+8	2019-08-17	BayerLeverkusen	Bundes	3-2	Paderborn	3	2	BAYER LEVERKUSEN	V	Championnat	Août
+8	2019-08-24	FortunaDüsseldorf	Bundes	1-3	BayerLeverkusen	1	3	BAYER LEVERKUSEN	V	Championnat	Août
+8	2019-08-31	BayerLeverkusen	Bundes	0-0	Hoffenheim	0	0	BAYER LEVERKUSEN	N	Championnat	Août
+9	2019-09-14	BorussiaDortmund	Bundes	4-0	BayerLeverkusen	4	0	BAYER LEVERKUSEN	D	Championnat	Septembre
+9	2019-09-18	BayerLeverkusen	LDC	1-2	LokomotivMoscou	1	2	BAYER LEVERKUSEN	D	LDC	Septembre
+9	2019-09-21	BayerLeverkusen	Bundes	2-0	UnionBerlin	2	0	BAYER LEVERKUSEN	V	Championnat	Septembre
+9	2019-09-28	Augsbourg	Bundes	0-3	BayerLeverkusen	0	3	BAYER LEVERKUSEN	V	Championnat	Septembre
+1	2019-01-10	JuventusTurin	LDC	3-0	BayerLeverkusen	3	0	BAYER LEVERKUSEN	D	LDC	Janvier
+5	2019-05-10	BayerLeverkusen	Bundes	1-1	RBLeipzig	1	1	BAYER LEVERKUSEN	N	Championnat	Mai
+10	2019-10-18	EintrachtFrancfort	Bundes	3-0	BayerLeverkusen	3	0	BAYER LEVERKUSEN	D	Championnat	Octobre
+10	2019-10-22	AtléticodeMadrid	LDC	1-0	BayerLeverkusen	1	0	BAYER LEVERKUSEN	D	LDC	Octobre
+10	2019-10-26	BayerLeverkusen	Bundes	2-2	WerderBrême	2	2	BAYER LEVERKUSEN	N	Championnat	Octobre
+10	2019-10-29	BayerLeverkusen	CN	1-0	Paderborn	1	0	BAYER LEVERKUSEN	V	CoupeNat	Octobre
+2	2019-02-11	BayerLeverkusen	Bundes	1-2	BorussiaM'Gladbach	1	2	BAYER LEVERKUSEN	D	Championnat	Février
+6	2019-06-11	BayerLeverkusen	LDC	2-1	AtléticodeMadrid	2	1	BAYER LEVERKUSEN	V	LDC	Juin
+10	2019-10-11	Wolfsburg	Bundes	0-2	BayerLeverkusen	0	2	BAYER LEVERKUSEN	V	Championnat	Octobre
+11	2019-11-23	BayerLeverkusen	Bundes	1-1	Fribourg	1	1	BAYER LEVERKUSEN	N	Championnat	Novembre
+11	2019-11-26	LokomotivMoscou	LDC	0-2	BayerLeverkusen	0	2	BAYER LEVERKUSEN	V	LDC	Novembre
+11	2019-11-30	BayernMunich	Bundes	1-2	BayerLeverkusen	1	2	BAYER LEVERKUSEN	V	Championnat	Novembre
+7	2019-07-12	BayerLeverkusen	Bundes	2-1	Schalke04	2	1	BAYER LEVERKUSEN	V	Championnat	Juillet
+11	2019-11-12	BayerLeverkusen	LDC	0-2	JuventusTurin	0	2	BAYER LEVERKUSEN	D	LDC	Novembre
+12	2019-12-14	FCCologne	Bundes	2-0	BayerLeverkusen	2	0	BAYER LEVERKUSEN	D	Championnat	Décembre
+12	2019-12-18	BayerLeverkusen	Bundes	0-1	HerthaBerlin	0	1	BAYER LEVERKUSEN	D	Championnat	Décembre
+12	2019-12-21	Mayence	Bundes	0-1	BayerLeverkusen	0	1	BAYER LEVERKUSEN	V	Championnat	Décembre
+3	2019-03-08	Wolfsburg	MA	8-1	Nice	8	1	WOLFSBURG	V	Amicaux	Mars
+12	2019-12-08	HallescherFC	CN	3-5	Wolfsburg	3	5	WOLFSBURG	V	CoupeNat	Décembre
+8	2019-08-17	Wolfsburg	Bundes	2-1	FCCologne	2	1	WOLFSBURG	V	Championnat	Août
+8	2019-08-25	HerthaBerlin	Bundes	0-3	Wolfsburg	0	3	WOLFSBURG	V	Championnat	Août
+8	2019-08-31	Wolfsburg	Bundes	1-1	Paderborn	1	1	WOLFSBURG	N	Championnat	Août
+9	2019-09-13	FortunaDüsseldorf	Bundes	1-1	Wolfsburg	1	1	WOLFSBURG	N	Championnat	Septembre
+9	2019-09-19	Wolfsburg	C3	3-1	Oleksandria	3	1	WOLFSBURG	V	C3	Septembre
+9	2019-09-23	Wolfsburg	Bundes	1-1	Hoffenheim	1	1	WOLFSBURG	N	Championnat	Septembre
+9	2019-09-28	Mayence	Bundes	0-1	Wolfsburg	0	1	WOLFSBURG	V	Championnat	Septembre
+3	2019-03-10	Saint-Étien.	C3	1-1	Wolfsburg	1	1	WOLFSBURG	N	C3	Mars
+6	2019-06-10	Wolfsburg	Bundes	1-0	UnionBerlin	1	0	WOLFSBURG	V	Championnat	Juin
+10	2019-10-19	RBLeipzig	Bundes	1-1	Wolfsburg	1	1	WOLFSBURG	N	Championnat	Octobre
+10	2019-10-24	LaGantoise	C3	2-2	Wolfsburg	2	2	WOLFSBURG	N	C3	Octobre
+10	2019-10-27	Wolfsburg	Bundes	0-0	Augsbourg	0	0	WOLFSBURG	N	Championnat	Octobre
+10	2019-10-30	Wolfsburg	CN	1-6	RBLeipzig	1	6	WOLFSBURG	D	CoupeNat	Octobre
+2	2019-02-11	BorussiaDortmund	Bundes	3-0	Wolfsburg	3	0	WOLFSBURG	D	Championnat	Février
+7	2019-07-11	Wolfsburg	C3	1-3	LaGantoise	1	3	WOLFSBURG	D	C3	Juillet
+10	2019-10-11	Wolfsburg	Bundes	0-2	BayerLeverkusen	0	2	WOLFSBURG	D	Championnat	Octobre
+11	2019-11-23	EintrachtFrancfort	Bundes	0-2	Wolfsburg	0	2	WOLFSBURG	V	Championnat	Novembre
+11	2019-11-28	Oleksandria	C3	0-1	Wolfsburg	0	1	WOLFSBURG	V	C3	Novembre
+1	2019-01-12	Wolfsburg	Bundes	2-3	WerderBrême	2	3	WOLFSBURG	D	Championnat	Janvier
+7	2019-07-12	Fribourg	Bundes	1-0	Wolfsburg	1	0	WOLFSBURG	D	Championnat	Juillet
+12	2019-12-12	Wolfsburg	C3	1-0	Saint-Étien.	1	0	WOLFSBURG	V	C3	Décembre
+12	2019-12-15	Wolfsburg	Bundes	2-1	BorussiaM'Gladbach	2	1	WOLFSBURG	V	Championnat	Décembre
+12	2019-12-18	Wolfsburg	Bundes	1-1	Schalke04	1	1	WOLFSBURG	N	Championnat	Décembre
+12	2019-12-21	BayernMunich	Bundes	2-0	Wolfsburg	2	0	WOLFSBURG	D	Championnat	Décembre
+7	2019-07-26	RBLeipzig	MA	2-0	Rennes	2	0	RB LEIPZIG	V	Amicaux	Juillet
+11	2019-11-08	Osnabrück	CN	2-3	RBLeipzig	2	3	RB LEIPZIG	V	CoupeNat	Novembre
+8	2019-08-18	UnionBerlin	Bundes	0-4	RBLeipzig	0	4	RB LEIPZIG	V	Championnat	Août
+8	2019-08-25	RBLeipzig	Bundes	2-1	EintrachtFrancfort	2	1	RB LEIPZIG	V	Championnat	Août
+8	2019-08-30	BorussiaM'Gladbach	Bundes	1-3	RBLeipzig	1	3	RB LEIPZIG	V	Championnat	Août
+9	2019-09-14	RBLeipzig	Bundes	1-1	BayernMunich	1	1	RB LEIPZIG	N	Championnat	Septembre
+9	2019-09-17	Benfica	LDC	1-2	RBLeipzig	1	2	RB LEIPZIG	V	LDC	Septembre
+9	2019-09-21	WerderBrême	Bundes	0-3	RBLeipzig	0	3	RB LEIPZIG	V	Championnat	Septembre
+9	2019-09-28	RBLeipzig	Bundes	1-3	Schalke04	1	3	RB LEIPZIG	D	Championnat	Septembre
+2	2019-02-10	RBLeipzig	LDC	0-2	Lyon	0	2	RB LEIPZIG	D	LDC	Février
+5	2019-05-10	BayerLeverkusen	Bundes	1-1	RBLeipzig	1	1	RB LEIPZIG	N	Championnat	Mai
+10	2019-10-19	RBLeipzig	Bundes	1-1	Wolfsburg	1	1	RB LEIPZIG	N	Championnat	Octobre
+10	2019-10-23	RBLeipzig	LDC	2-1	ZénithSaint-Pétersbourg	2	1	RB LEIPZIG	V	LDC	Octobre
+10	2019-10-26	Fribourg	Bundes	2-1	RBLeipzig	2	1	RB LEIPZIG	D	Championnat	Octobre
+10	2019-10-30	Wolfsburg	CN	1-6	RBLeipzig	1	6	RB LEIPZIG	V	CoupeNat	Octobre
+2	2019-02-11	RBLeipzig	Bundes	8-0	Mayence	8	0	RB LEIPZIG	V	Championnat	Février
+5	2019-05-11	ZénithSaint-Pétersbourg	LDC	0-2	RBLeipzig	0	2	RB LEIPZIG	V	LDC	Mai
+9	2019-09-11	HerthaBerlin	Bundes	2-4	RBLeipzig	2	4	RB LEIPZIG	V	Championnat	Septembre
+11	2019-11-23	RBLeipzig	Bundes	4-1	FCCologne	4	1	RB LEIPZIG	V	Championnat	Novembre
+11	2019-11-27	RBLeipzig	LDC	2-2	Benfica	2	2	RB LEIPZIG	N	LDC	Novembre
+11	2019-11-30	Paderborn	Bundes	2-3	RBLeipzig	2	3	RB LEIPZIG	V	Championnat	Novembre
+7	2019-07-12	RBLeipzig	Bundes	3-1	Hoffenheim	3	1	RB LEIPZIG	V	Championnat	Juillet
+10	2019-10-12	Lyon	LDC	2-2	RBLeipzig	2	2	RB LEIPZIG	N	LDC	Octobre
+12	2019-12-14	FortunaDüsseldorf	Bundes	0-3	RBLeipzig	0	3	RB LEIPZIG	V	Championnat	Décembre
+12	2019-12-17	BorussiaDortmund	Bundes	3-3	RBLeipzig	3	3	RB LEIPZIG	N	Championnat	Décembre
+12	2019-12-21	RBLeipzig	Bundes	3-1	Augsbourg	3	1	RB LEIPZIG	V	Championnat	Décembre
